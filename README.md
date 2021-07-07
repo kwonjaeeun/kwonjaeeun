@@ -1,11 +1,7 @@
-### Hi there 👋
+
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" height="45px" width="150px"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"  height="45px" width="100px"/>
 
-
-
-
-
-<img src="https://img.shields.io/github/watchers/kwonjaeeun/kwonjaeeun?style=social"/>                                          
+                                      
 <!--
 **kwonjaeeun/kwonjaeeun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
