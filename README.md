@@ -1,5 +1,18 @@
+Using Tech before...
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" height="45px" width="150px"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"  height="45px" width="100px"/>
+<img src="https://user-images.githubusercontent.com/81272766/127088723-16a23ae0-cb02-49c7-bbf9-919f2eb750b9.jpg"  height="45px" width="100px"/>
+<img src="https://user-images.githubusercontent.com/81272766/127088747-ef93c0a6-3158-410c-a0ba-9e1bf54c526a.png" height="45px" width="150px"/> 
+<img src="https://user-images.githubusercontent.com/81272766/127088762-6fd56634-399a-4d3d-bf58-f8f3c182257f.png"  height="45px" width="100px"/>
+
+<img src="https://user-images.githubusercontent.com/81272766/127088783-b2d58f74-eb20-4771-b135-c36f801c33d2.jpg"  height="45px" width="150px"/> <img src="https://user-images.githubusercontent.com/81272766/127088801-6cfb1965-4b86-4afd-b9aa-431268c1e122.jpg" height="45px" width="150px"/> 
+<img src="https://user-images.githubusercontent.com/81272766/127088807-668a3040-ed77-434b-96b5-bfd9f91a6886.png"  height="45px" width="100px"/>
+<img src="https://user-images.githubusercontent.com/81272766/127088723-16a23ae0-cb02-49c7-bbf9-919f2eb750b9.jpg"  height="45px" width="100px"/>
+
+![image](https://user-images.githubusercontent.com/80729891/130814493-9ccdb30f-9441-4c1b-869f-87a177dab5eb.png) 
+![image](https://user-images.githubusercontent.com/80729891/130814537-0d898032-29a1-4b23-80bb-247d2ca6bf7b.png)
+
+
 
                                       
 <!--
