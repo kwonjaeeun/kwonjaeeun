@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Linux, spring...etc**
 
-- 📫 How to reach me **dino21824@gmail.com**
+- 📫 How to reach me **dino21824@gmail.com** **dino218@naver.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
