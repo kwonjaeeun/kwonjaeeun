@@ -2,7 +2,7 @@
 <h3 align="center">A begginer developer from SouthKorea</h3>
 
 
-- 🌱 I’m currently learning **Linux, spring...etc**
+- 🌱 I’m currently learning **Java,javascript,Spring...etc**
 
 - 📫 How to reach me **dino21824@gmail.com**  or  **dino218@naver.com**
 
