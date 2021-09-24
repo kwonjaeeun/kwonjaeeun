@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm jaeeun!👨‍💻</h1>
-<h3 align="center">A begginer backend developer from SouthKorea</h3>
+<h3 align="center">A begginer developer from SouthKorea</h3>
 
 
 - 🌱 I’m currently learning **Linux, spring...etc**
